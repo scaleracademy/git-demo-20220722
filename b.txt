@@ -1,5 +1,6 @@
 adding another file
 this is a line added by arnav
+create conflict
 Create conflict
 more lines in b.txt
 third line in b.txt
