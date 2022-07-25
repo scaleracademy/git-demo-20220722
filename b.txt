@@ -2,3 +2,4 @@ adding another file
 this is a line added by arnav
 more lines in b.txt
 third line in b.txt
+Loving the scaler lectures!!
