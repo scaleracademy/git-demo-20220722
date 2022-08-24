@@ -5,3 +5,4 @@ adding this line to fix a bug
 just created another branch
 more lines in b.txt
 third line in b.txt
+this is a new line to test fork.
