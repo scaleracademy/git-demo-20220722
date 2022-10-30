@@ -1,5 +1,8 @@
 this is a new file
 these are some more changes I need to do for feature-1
+these are some more changes I need to do for feature-1
 these are some lines I added
 this is another line i am adding
 fixed a bug here too
+fixed a bug here too
+Adding one more line for Git-demo
